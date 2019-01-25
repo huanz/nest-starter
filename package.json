@@ -1,7 +1,7 @@
 {
-  "name": "nest-wechat",
+  "name": "nest-starter",
   "version": "1.0.0",
-  "description": "nestjs wechat",
+  "description": "nestjs starter",
   "author": "bukas",
   "license": "MIT",
   "scripts": {
@@ -29,8 +29,6 @@
     "moment": "^2.24.0",
     "mysql": "^2.16.0",
     "passport": "^0.4.0",
-    "co-wechat-api": "^3.8.2",
-    "passport-wechat": "^2.0.4",
     "rimraf": "^2.6.3",
     "rxjs": "^6.3.3",
     "typeorm": "^0.2.12",
