@@ -1,0 +1,7 @@
+test.noonme.com {
+  gzip
+  proxy / http://127.0.0.1:3000 {
+    transparent
+  }
+  log /home/wwwlogs/caddy.test.noonme.com.log;
+}
